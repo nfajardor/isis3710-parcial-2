@@ -1,5 +1,7 @@
 import TableComponent from './TableComponent'
 import { FormattedMessage } from 'react-intl'
+import Graph from './Graph'
+Graph()
 function Main(props) {
   return (
     <div>
